@@ -55,7 +55,7 @@ Enhanced SoundCloud Downloader es una aplicación GUI avanzada para descargar au
 
 Ejecuta la aplicación con:
 
-   python soundcloud_downloader_improved.py
+   python app.py
 
 ### Interfaz de Usuario
 
